@@ -1,5 +1,5 @@
 import React from 'react';
-import UserDetailsComponent from "@/components/users/UserDetailsComponent";
+import UserDetailsComponent from "@/app/components/users/UserDetailsComponent";
 
 type ParamsType = {
     id: string

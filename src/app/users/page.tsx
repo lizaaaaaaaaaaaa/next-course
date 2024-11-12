@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import UsersComponent from "@/components/users/UsersComponent";
+import UsersComponent from "@/app/components/users/UsersComponent";
 
 const UsersPage:FC = () => {
     return <UsersComponent/>;

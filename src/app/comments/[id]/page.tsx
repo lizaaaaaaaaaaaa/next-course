@@ -1,5 +1,5 @@
 import React from 'react';
-import CommentDetailsComponent from "@/components/comments/CommentDetailsComponent";
+import CommentDetailsComponent from "@/app/components/comments/CommentDetailsComponent";
 
 type ParamsType = {
     id: string

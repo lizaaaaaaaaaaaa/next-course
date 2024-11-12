@@ -1,5 +1,5 @@
 import React from 'react';
-import PostDetailsComponent from "@/components/posts/PostDetailsComponent";
+import PostDetailsComponent from "@/app/components/posts/PostDetailsComponent";
 
 type Params = {
     id: string;
